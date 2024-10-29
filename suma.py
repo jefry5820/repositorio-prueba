@@ -1,5 +1,5 @@
 def suma(*arg):
     return sum(arg)
 
-print(suma(1,2,3))
+print(suma(1,5,3))
 print('hola')
